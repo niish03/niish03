@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nishitpatel.nnp@gmail.com**
 
-- 📄 Know about my experiences [https://nishitpatel.herokuapp.com/resume/Nishit%20Patel%20-%20CV.pdf](https://nishitpatel.herokuapp.com/resume/Nishit%20Patel%20-%20CV.pdf)
+- 📄 Know about my experiences [Resume](https://nishitpatel.herokuapp.com/resume/Nishit%20Patel%20-%20CV.pdf)
 
 - ⚡ Fun fact **I think I code too much! ;)**
 
