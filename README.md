@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👨‍💻 All of my projects are available at [nishitpatel.herokuapp.com](nishitpatel.herokuapp.com)
+- 👨‍💻 All of my projects are available at [nishitpatel.me](https://nishitpatel.vercel.app/) 
 
 - 💬 Ask me about **MERN STACK**
 
